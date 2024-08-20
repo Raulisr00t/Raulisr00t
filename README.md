@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 40%; max-width: 250px;" />
-  <div style="margin-left: 10px; text-align: center;">
+  <div style="margin-left: 30px; text-align: center;">
     
 ## 🛠️ Skills
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
