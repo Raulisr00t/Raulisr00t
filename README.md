@@ -1,7 +1,7 @@
 ## 🔥 Most Used Languages
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 50%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 40%; max-width: 250px;" />
   <div style="margin-left: 20px; text-align: center;">
     
 ## 🛠️ Skills
