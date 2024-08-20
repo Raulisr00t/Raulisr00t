@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 50%; max-width: 300px;" />
   <div style="margin-left: 20px; text-align: center;">
-    <img src="https://your-logo-url-here.png" alt="Offensive Security Logo" style="width: 250px;"/> <!-- Replace with your logo URL -->
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atom.com%2Fname%2FOffensiveSecurity.org&psig=AOvVaw2e8XxFx__49IquQE9udKup&ust=1724225184683000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjrl9GFg4gDFQAAAAAdAAAAABAE" alt="Offensive Security Logo" style="width: 250px;"/> <!-- Replace with your logo URL -->
     <br/>
     <span style="font-size: 18px; color: #ED1C24; font-weight: bold;">Offensive Security Enthusiast</span>
   </div>
