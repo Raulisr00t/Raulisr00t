@@ -1,9 +1,9 @@
 ## 🔥 Most Used Languages
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 60%; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulisr00t&layout=compact&theme=dark" alt="Top Langs" style="width: 50%; max-width: 300px;" />
   <div style="margin-left: 20px; text-align: center;">
-    <img src="https://img.shields.io/badge/Offensive%20Security-ED1C24?style=for-the-badge&logo=offensive-security&logoColor=white" alt="Offensive Security Logo" style="width: 250px;"/>
+    <img src="https://your-logo-url-here.png" alt="Offensive Security Logo" style="width: 250px;"/> <!-- Replace with your logo URL -->
     <br/>
     <span style="font-size: 18px; color: #ED1C24; font-weight: bold;">Offensive Security Enthusiast</span>
   </div>
